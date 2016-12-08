@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_17"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/kafka_2.10-0.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/metrics-annotation-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/scala-library-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/snappy-java-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/socket/libs/zookeeper-3.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
